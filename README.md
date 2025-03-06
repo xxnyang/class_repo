@@ -2,4 +2,4 @@
 - ai
 - deeplearning
 
-(github.com)
+[github](github.com)
