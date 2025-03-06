@@ -1,1 +1,5 @@
-# class_repo
+# test4class
+- ai
+- deeplearning
+
+[github.com]
