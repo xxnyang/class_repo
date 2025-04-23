@@ -6,4 +6,4 @@
   - one-hot coding: loss='categorical_crossentropy'
   2. 회귀: mean_squared_error, mean_absolute_error etc
 
-- model.build((None,784)): none 옆의 수는 맘대로 근데 마지막에 빼먹지 말 것(sequential)
+- model.build((None,784)): none 옆의 수는 맘대로(클 수록 파라미터 수 증가) 근데 마지막에 빼먹지 말 것(sequential)
